@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Carl</h1>
 <h3 align="center">Software Developer | React | Python | JavaScript | Building Scalable Web Solutions</h3>
 
-<p align='center'><img  src='https://global.discourse-cdn.com/codecademy/original/5X/3/c/8/5/3c85feecb4eb52a4d69ef0891cfbc495a1da7174.png' alt='meme'/></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexjc23&label=Profile%20views&color=0e75b6&style=flat" alt="alexjc23" /> </p>
 
 <h3>About: </h3>
