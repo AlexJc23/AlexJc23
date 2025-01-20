@@ -9,7 +9,7 @@
 Started my journey early by graduating high school at 16, which catapulted me into the real world. Now, I’m all about building innovative solutions and dreaming of running my own software empire. Let’s create something amazing.</p>
 
 
-- 🔭 I’m currently working on [DuelForge](https://duelforge.onrender.com/)
+- 🔭 I’m currently working on "SmartChef" 
 
 - 🌱 I’m currently learning **Typescript**
 
