@@ -9,9 +9,9 @@
 Started my journey early by graduating high school at 16, which catapulted me into the real world. Now, I’m all about building innovative solutions and dreaming of running my own software empire. Let’s create something amazing.</p>
 
 
-- 🔭 I’m currently working on "SmartChef" 
+- 🔭 I’m currently working on <a href="https://github.com/AlexJc23/SmartChef">SmartChef</a>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning Angular
 
 - 💬 Ask me about **React, Python, JavaScript, full-stack development, building scalable web apps, UI/UX design, and leveraging technology to solve real-world problems.**
 
