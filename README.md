@@ -11,9 +11,9 @@ As I applied to different bootcamps, I encountered coding challenges that pushed
 When I’m not coding something cool, you’ll find me geeking out over Marvel, leveling up in video games, hunting for rare Yu-Gi-Oh! cards, or creating mind-bending manipulation art for Instagram. Above all, I cherish spending quality time with my son and wife, making memories that last a lifetime. Let’s team up and create something extraordinary together!</p>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/AlexJc23/SmartChef">SmartChef</a>
+- 🔭 I’m currently working on Omgg Beats
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning CyberSecurity
 
 - 💬 Ask me about **React, Python, JavaScript, full-stack development, building scalable web apps, UI/UX design, and leveraging technology to solve real-world problems.**
 
