@@ -13,9 +13,9 @@ Outside of code, I’m a Marvel junkie, a video game enthusiast, a Naruto collec
 Let’s build something great together.</p>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/AlexJc23/omgg_beats/wiki">omgg_beats</a>
+- 🔭 I’m currently working on <a href="https://github.com/AlexJc23/Nest/wiki">Nest</a>
 
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently learning fastApi
 
 - 💬 Ask me about **React, Python, JavaScript, full-stack development, building scalable web apps, UI/UX design, and leveraging technology to solve real-world problems.**
 
