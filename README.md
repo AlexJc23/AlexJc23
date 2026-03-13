@@ -13,7 +13,7 @@ Outside of code, I’m a Marvel junkie, a video game enthusiast, a Naruto collec
 Let’s build something great together.</p>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/AlexJc23/Nest/wiki">Nest</a>
+- 🔭 I’m currently working on Deductly
 
 - 🌱 I’m currently learning fastApi
 
